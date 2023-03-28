@@ -1,3 +1,8 @@
+About Todo React App
+
+A Productivity app that allows to add tasks, edit and delete tasks. When a task is completed, user can click on task to strike-through to show the task is completed and the task can be deleted afterwards. This app was built using HTML5, CSS3, Reactjs.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
